@@ -8,5 +8,5 @@
 ## Concourseへのログイン方法
 
 ```
-fly -t ws login -c https://35-200-104-177.sslip.io -t ws-(githubアカウント名)
+fly -t ws login -c https://35-200-104-177.sslip.io -n ws-(githubアカウント名)
 ```
